@@ -3,7 +3,34 @@
 **노치는 그냥 검은 칸이 아닙니다.** 맥북의 노치를 쓸모 있는 공간으로 바꿔 주는 무료 macOS 앱입니다. (노치를 숨기는 앱이 아닙니다.)
 
 > 1.4.1까지는 **UsefulNotch**라는 이름이었습니다. 이미 쓰고 계시면 설정 → 지원 → 업데이트로 그대로 이어서 받을 수 있습니다.
+
 노치 양옆에 재생 중인 음악을 작게 보여 주고, 마우스를 올리면 아래로 펼쳐져 여러 화면이 나타납니다.
+
+![노치를 펼친 음악 화면](images/music.png)
+
+## 둘러보기
+
+| 닫혀 있을 때 | 밝기·소리를 바꿀 때 |
+|---|---|
+| ![닫힌 노치: 앨범 표지와 음악 막대](images/closed.png) | ![노치 아래에 뜨는 소리 크기](images/hud.png) |
+| 재생 중인 곡의 표지와, 장르에 맞춰 움직이는 막대 | 화면 오른쪽 위 대신 노치 아래에 |
+
+| Claude 사용량 | ChatGPT 사용량 |
+|---|---|
+| ![Claude 5시간·주간 한도](images/claude.png) | ![ChatGPT Codex 5시간·주간 한도](images/chatgpt.png) |
+| claude.ai 구독의 5시간·주간 한도 | ChatGPT 구독의 Codex 5시간·주간 한도 |
+
+펼친 화면은 ◀ ▶ 또는 트랙패드 두 손가락 좌우 쓸기로 넘깁니다.
+
+### 설정
+
+| 기본 설정 | AI |
+|---|---|
+| ![기본 설정: 모듈 켜고 끄기, 노치 모양, 펼친 화면 순서](images/settings-general.png) | ![AI: Claude·ChatGPT 계정](images/settings-ai.png) |
+| **음악** | **지원** |
+| ![음악: Apple Music·Spotify 연결 상태](images/settings-music.png) | ![지원: 업데이트, 의견 보내기](images/settings-support.png) |
+
+> 사진 속 곡, 앨범 표지, 사용량, 계정은 예시입니다.
 
 ## 기능
 
