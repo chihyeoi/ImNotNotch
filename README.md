@@ -48,10 +48,10 @@
 
 | 쓰는 컴퓨터 | 받을 곳 | 받을 파일 |
 |---|---|---|
-| 🍎 **맥** | [맥 최신 릴리스](https://github.com/chihyeoi/ImNotNotch/releases/latest) (제목에 `Win`이 **없는** 것) | `ImNotNotch-버전.zip` |
-| 🪟 **윈도우** | [윈도우 릴리스 목록](https://github.com/chihyeoi/ImNotNotch/releases?q=Win&expanded=true)의 맨 위 (제목이 `ImNotNotch Win…`) | `ImNotNotch-windows-버전.zip` |
+| **맥** | [맥 최신 릴리스](https://github.com/chihyeoi/ImNotNotch/releases/latest) (제목에 `Win`이 **없는** 것) | `ImNotNotch-버전.zip` |
+| **윈도우** | [윈도우 릴리스 목록](https://github.com/chihyeoi/ImNotNotch/releases?q=Win&expanded=true)의 맨 위 (제목이 `ImNotNotch Win…`) | `ImNotNotch-windows-버전.zip` |
 
-### 🍎 맥에 설치하기
+### 맥에 설치하기
 
 macOS 14 이상, 노치가 있는 맥북에 맞춰 만들었습니다 (노치 없는 화면에서는 위 가운데에 비슷한 모양으로 나타납니다).
 
@@ -67,7 +67,7 @@ macOS 14 이상, 노치가 있는 맥북에 맞춰 만들었습니다 (노치 �
 - **Music 제어**: 음악 기능이 재생 정보를 읽고 조작하는 데 필요합니다.
 - Claude·ChatGPT 사용량은 노치를 펼친 뒤 각 칸의 **로그인**을 눌러 직접 로그인합니다. 로그인 정보는 이 맥의 앱 안에만 남습니다.
 
-### 🪟 윈도우에 설치하기
+### 윈도우에 설치하기
 
 윈도우 10(2004 이상)·윈도우 11. 윈도우 노트북엔 노치가 없어서, 화면 맨 위 가운데에 노치 모양의 검은 판이 나타납니다.
 
