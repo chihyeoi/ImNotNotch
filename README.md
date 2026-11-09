@@ -49,7 +49,7 @@
 | 쓰는 컴퓨터 | 받을 곳 | 받을 파일 |
 |---|---|---|
 | **맥** | [맥 최신 릴리스](https://github.com/chihyeoi/ImNotNotch/releases/latest) (제목에 `Win`이 **없는** 것) | `ImNotNotch-버전.zip` |
-| **윈도우** | [윈도우 릴리스 목록](https://github.com/chihyeoi/ImNotNotch/releases?q=Win&expanded=true)의 맨 위 (제목이 `ImNotNotch Win…`) | `ImNotNotch-windows-버전.zip` |
+| **윈도우** | [윈도우 최신 릴리스 (Win1.6)](https://github.com/chihyeoi/ImNotNotch/releases/tag/v1.6-win) | `ImNotNotch-windows-버전.zip` |
 
 ### 맥에 설치하기
 
@@ -71,7 +71,7 @@ macOS 14 이상, 노치가 있는 맥북에 맞춰 만들었습니다 (노치 �
 
 윈도우 10(2004 이상)·윈도우 11. 윈도우 노트북엔 노치가 없어서, 화면 맨 위 가운데에 노치 모양의 검은 판이 나타납니다.
 
-1. [윈도우 릴리스 목록](https://github.com/chihyeoi/ImNotNotch/releases?q=Win&expanded=true)에서 맨 위의 **`ImNotNotch Win…`** 릴리스를 열고 `ImNotNotch-windows-버전.zip`을 내려받습니다.
+1. [윈도우 최신 릴리스 (Win1.6)](https://github.com/chihyeoi/ImNotNotch/releases/tag/v1.6-win)에서 `ImNotNotch-windows-버전.zip`을 내려받습니다. (설치한 뒤에는 앱이 새 버전을 알아서 알려 줍니다)
 2. 받은 zip을 우클릭 → **모두 압축 풀기**. 나온 `ImNotNotch` 폴더를 **내 문서** 같은 곳에 둡니다. (`Program Files` 안에 두면 앱이 스스로 업데이트하지 못합니다)
 3. 폴더 안의 **`ImNotNotch.exe`** 를 엽니다. 처음엔 파란 **"Windows의 PC 보호"** 창이 뜰 수 있습니다. (코드 서명을 받지 않은 앱이라 그렇습니다.)
    - **추가 정보 → 실행**을 누르면 열립니다. 한 번만 하면 됩니다.
